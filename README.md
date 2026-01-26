@@ -1,7 +1,6 @@
 # Hi, I'm Badelyn 👋 👩🏻‍💻
 
 <!-- Banner personalizado ancho completo pero más pequeño en altura -->
-<img src="Banner for space github badelyn b.png" alt="Banner de Badelyn" style="width:100%; max-height:250px; object-fit:cover;">
 
 I'm Badelyn, a curious and motivated student, passionate about technology, problem-solving, and continuous learning.  
 
