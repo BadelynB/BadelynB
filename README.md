@@ -8,11 +8,7 @@ I'm Badelyn, a curious and motivated student, passionate about technology, probl
 <img src="./mini puppy decoration.png" alt="Decoración de perrito" width="200" align="right">
 
 Some aspects that define me:
-- 🌍 I love learning languages ​​(French & Italian).
-- 💻 I develop programming and database projects.
-- 📊 I'm interested in business, finance, and innovation.
-- 🏅 I'm preparing for chess, discussions, and sports Olympiads.
-- 🎯 I focus on self-discipline, creativity, and generating impactful ideas.
+- 
 
 ---
 
